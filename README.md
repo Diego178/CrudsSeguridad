@@ -1,4 +1,4 @@
-# CrudsSeguridad
+# CRUDs Seguridad
 Programacion de 2 cruds, uno seguro y otro vulnerable para la materia de Seguridad
 Miembros del equipo: 
 - Alfredo Issac Ramírez González
